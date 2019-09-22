@@ -5,7 +5,7 @@ Star this repository if this helps you. Suggestions are accepted whole-heartedly
 This version is made by techguy940 and this scrapes and gives you proxies from an api
 
 # types
-Types: Http,Https,Socks4,Socks5
-Anonymity: Transparent,Anonymous,Elite
+Types: Http,Https,Socks4,Socks5\n
+Anonymity: Transparent,Anonymous,Elite\n
 Country: For now its random. Will add to choose the country you want the proxies of
 
